@@ -1,0 +1,10 @@
+2024-08-11T00:39:51.732Z [right meow!] error: Error during login authentication: logger.warn is not a function
+2024-08-11T00:56:33.936Z [right meow!] error: Unexpected error in loggerTest: logger.warn is not a function
+2024-08-11T01:00:45.249Z [right meow!] error: This is an error log
+2024-08-11T01:00:45.250Z [right meow!] error: This is a fatal log
+2024-08-11T01:01:28.116Z [right meow!] error: This is an error log
+2024-08-11T01:01:28.117Z [right meow!] error: This is a fatal log
+2024-08-11T01:01:49.431Z [right meow!] error: This is an error log
+2024-08-11T01:01:49.432Z [right meow!] error: Unexpected error in loggerTest: this.logger.fatal is not a function
+2024-08-11T01:02:07.415Z [right meow!] error: This is an error log
+2024-08-11T01:02:07.416Z [right meow!] error: This is a fatal log
